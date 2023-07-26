@@ -5,6 +5,7 @@ public class LogicalOperator {
         int c= 10;
         System.out.println(a==b || a==c);
         System.out.println(a==b && a==c);
+        System.out.println("New update");
         
     }
 
