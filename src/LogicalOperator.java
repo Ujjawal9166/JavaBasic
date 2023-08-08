@@ -6,6 +6,9 @@ public class LogicalOperator {
         System.out.println(a==b || a==c);
         System.out.println(a==b && a==c);
         System.out.println("New update");
+
+        System.out.println("again merge");
+
         
     }
 
